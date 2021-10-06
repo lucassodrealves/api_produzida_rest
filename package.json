@@ -1,0 +1,25 @@
+{
+  "name": "api_produzida_rest",
+  "version": "1.0.0",
+  "description": "on api in node.js in course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassodrealves/api_produzida_rest.git"
+  },
+  "keywords": [],
+  "author": "lucassodrealves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucassodrealves/api_produzida_rest/issues"
+  },
+  "homepage": "https://github.com/lucassodrealves/api_produzida_rest#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {}
+}

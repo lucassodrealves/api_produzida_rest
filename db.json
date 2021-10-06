@@ -1,0 +1,14 @@
+{
+  "herois": [
+    {
+      "id": 2,
+      "descricao": "Acrobata que vive perigosamente",
+      "nome": "Valmir dançarino"
+    },
+    {
+      "descricao": "Um mestre das Artes Marciais",
+      "nome": "Friedrich",
+      "id": 3
+    }
+  ]
+}
